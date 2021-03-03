@@ -1,3 +1,10 @@
+Link  [Firebase deploy](https://task-planner-angel.web.app).
+
+
+User: juan@gmail.com
+
+Pass: pass
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
